@@ -1,0 +1,4 @@
+*.pdf
+.Rproj.user
+.local/*
+.config/*
